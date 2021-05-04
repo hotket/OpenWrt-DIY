@@ -16,7 +16,7 @@
 
 ## 固件下载 [![](https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg)](#固件下载-)
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; X86&nbsp;&nbsp;设备编译状态及固件下载</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; X86&nbsp;&nbsp;&nbsp;设备编译状态及固件下载</b></summary>
     
 <br/>
  
